@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Passion for data
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is LakshmiNarasimhan a.k.a Hari. I am a data scientist and a deep learning enthusiast. I have worked with structured, unstructured and semi-structured data in both academic and professional level to derive meaningful insights and create data products. My areas of expertise and core competencies include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Deep Learning
+- Machine Learning
+- Data Mining
+- Data Modelling
+- Data Visualization
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
